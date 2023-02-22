@@ -5,7 +5,8 @@ namespace jeuA
 {
     public class Program
     {
-       
+//test
+
         public static List<byte> valeures_prise_cases_vides = new List<byte>();
         public static List<byte> position_case_vide = new List<byte>();
         public static int[,] grille_sudoku = new int[9, 9];
